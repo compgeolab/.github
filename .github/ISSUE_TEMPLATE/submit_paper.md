@@ -29,17 +29,13 @@ It is currently under review at \textit{insert-journal}.
 
 ## Checklist
 
-- [] Reserve a DOI on [figshare](https://figshare.com/) or
-     [Zenodo](https://zenodo.org/) for the supplementary material (zip archive of this repository). 
-     Paste the DOI at the top of this issue.
-- [] Add the _supplementary DOI_ to the manuscript
-- [] Make a cover letter for the editor. Include a short summary, suggested reviewers, 
-     and contributions by student authors
-- [] Submit the paper to the Journal
-- [] Submit the preprint to [EarthArXiv](https://eartharxiv.org/) 
-- [] Add the _preprint DOI_ to the `README.md`
-- [] Make a release on GitHub
-- [] Upload the `.zip` version of the repository to figshare or Zenodo and publish
-     it
-- [] Add the preprint to the CompGeoLab (and your personal) website
-- [] Tell people about your preprint on social media (include a figure and maybe a thread with the main results)
+- [ ] Reserve a DOI on [figshare](https://figshare.com/) or [Zenodo](https://zenodo.org/) for the supplementary material (zip archive of this repository). Paste the DOI at the top of this issue.
+- [ ] Add the _supplementary DOI_ to the manuscript
+- [ ] Make a cover letter for the editor. Include a short summary, suggested reviewers, and contributions by student authors
+- [ ] Submit the paper to the Journal
+- [ ] Submit the preprint to [EarthArXiv](https://eartharxiv.org/) 
+- [ ] Add the _preprint DOI_ to the `README.md`
+- [ ] Make a release on GitHub
+- [ ] Upload the `.zip` version of the repository to figshare or Zenodo and publish it
+- [ ] Add the preprint to the CompGeoLab (and your personal) website
+- [ ] Tell people about your preprint on social media (include a figure and maybe a thread with the main results)
