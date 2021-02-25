@@ -34,7 +34,7 @@ It is currently under review at \textit{insert-journal}.
 - [ ] Make a cover letter for the editor. Include a short summary, suggested reviewers, and contributions by student authors
 - [ ] Submit the paper to the Journal
 - [ ] Submit the preprint to [EarthArXiv](https://eartharxiv.org/) 
-- [ ] Add the _preprint DOI_ to the `README.md`
+- [ ] Add the _preprint DOI_ and _supplementary DOI_ to the `README.md`
 - [ ] Make a release on GitHub
 - [ ] Upload the `.zip` version of the repository to figshare or Zenodo and publish it
 - [ ] Add the preprint to the CompGeoLab (and your personal) website
