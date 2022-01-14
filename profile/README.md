@@ -7,10 +7,10 @@ and building **open-source scientific software**.
 
 ## Work with us!
 
-> ⚠️ **Before you decide to work with us:** read the
-> [Lab Manual](https://github.com/compgeolab/manual) carefully to make sure you
-> agree with our stance on open-access, FAIR data/software, and overall work
-> ethics.
+> Our [Lab Manual](https://github.com/compgeolab/manual) includes our mission, 
+> our approach to (open) science, and our stance on open-access, FAIR data/software, and 
+> overall work ethics. Please make sure you've read and agree with them before
+> deciding if you want to work with us.
 
 🤝 **Collaborations:** We're always interested in new collaborations and interesting
 projects. Get in touch!
