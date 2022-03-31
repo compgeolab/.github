@@ -8,12 +8,7 @@ The **CompGeoLab** is a research group based primarily at the
 We are experts in solving **inverse problems** in **Geophysics**
 and building **open-source scientific software**.
 
-  
-[About](https://www.compgeolab.org/) 
-| 
 [News](https://www.compgeolab.org/news/)
-|
-[Software](https://www.compgeolab.org/software/)
 |
 [Team](https://www.compgeolab.org/team/)
 |
