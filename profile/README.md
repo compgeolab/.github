@@ -1,5 +1,3 @@
-<img width="100%" alt="Geophysical research powered by open-source software. At the Computer-Oriented Geoscience Lab, we design state-of-the-art computational tools for the Geosciences. Source code included." src="https://github.com/compgeolab/.github/raw/main/profile/banner.jpg"/>
-
 <div align="center">
 
 The **CompGeoLab** is a research group based at the
