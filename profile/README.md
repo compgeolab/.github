@@ -1,18 +1,20 @@
-<h1 align="center">Geophysical research powered by open-source software</h1>
+<img width="100%" alt="Geophysical research powered by open-source software. At the Computer-Oriented Geoscience Lab, we design state-of-the-art computational tools for the Geosciences. Source code included." src="https://github.com/compgeolab/.github/raw/main/profile/banner.jpg"/>
 
 <div align="center">
-  
-The **CompGeoLab** is a research group based primarily at the
+
+The **CompGeoLab** is a research group based at the
 [University of Liverpool](https://www.liverpool.ac.uk/earth-ocean-and-ecological-sciences/).
-  
-We are experts in solving **inverse problems** in **Geophysics**
-and building **open-source scientific software**.
+We are experts in solving **inverse problems** in the field of **Geophysics**.
+For example, determining the inner density distribution of the Earth from
+measured disturbances in the Earth's gravity field. These are the main tools
+used by geoscientists to **image the inside** of the Earth and other planets.
 
-[Website](https://www.compgeolab.org)
+We also specialize in building **open-source scientific software**. Our team
+works on several tools and projects, both developing tools in-house and
+contributing across the larger scientific ecosystem.
+
+[WEBSITE](https://www.compgeolab.org)
 •
-[Logo and branding](https://github.com/compgeolab/logo)
+[LOGO AND BRANDING](https://github.com/compgeolab/logo)
 
-  
 </div>
-
-<img width="100%" alt="Logo of the Computer-Oriented Geoscience Lab on top of a map of gravity disturbances in the Pacific" src="https://github.com/compgeolab/.github/raw/main/profile/banner.jpg"/>
