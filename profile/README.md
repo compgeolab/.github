@@ -10,8 +10,6 @@ and building **open-source scientific software**.
 
 [Website](https://www.compgeolab.org)
 •
-[Lab manual](https://github.com/compgeolab/manual) 
-•
 [Logo and branding](https://github.com/compgeolab/logo)
 
   
