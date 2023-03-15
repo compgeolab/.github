@@ -1,18 +1,13 @@
-<div align="center">
+<h2>Welcome to the CompGeoLab <img src="https://raw.githubusercontent.com/compgeolab/logo/main/compgeolab.png" height="22px"></h2>
+  
+We're a research group focused on solving **inverse problems** in **Geophysics** 
+and building **open-source scientific software**.
+  
+These are the main tools used by geoscientists to **image the inside** of the Earth and other planets.
+Our team works on several open tools and projects, both developed in-house and across the larger scientific ecosystem.
 
-The **CompGeoLab** is a research group based at the
-[University of Liverpool](https://www.liverpool.ac.uk/earth-ocean-and-ecological-sciences/).
-We are experts in solving **inverse problems** in the field of **Geophysics**.
-For example, determining the inner density distribution of the Earth from
-measured disturbances in the Earth's gravity field. These are the main tools
-used by geoscientists to **image the inside** of the Earth and other planets.
+**Website:** [`www.compgeolab.org`](https://www.compgeolab.org)
 
-We also specialize in building **open-source scientific software**. Our team
-works on several tools and projects, both developing tools in-house and
-contributing across the larger scientific ecosystem.
+**Logo and branding:** [`compgeolab/logo`](https://github.com/compgeolab/logo)
 
-[WEBSITE](https://www.compgeolab.org)
-•
-[LOGO AND BRANDING](https://github.com/compgeolab/logo)
-
-</div>
+**Lab manual:** [`www.compgeolab.org/manual`](https://www.compgeolab.org/manual/index.html)
