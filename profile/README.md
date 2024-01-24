@@ -6,5 +6,7 @@ and building **open-source scientific software**.
 These are the main tools used by geoscientists to **image the inside** of the Earth and other planets.
 Our team works on several open tools and projects, both developed in-house and across the larger scientific ecosystem.
 
-Quick links: [www.compgeolab.org](https://www.compgeolab.org) | [Lab manual](https://www.compgeolab.org/manual/index.html) | 
-[Logo and branding](https://github.com/compgeolab/logo) | [Paper template](https://github.com/compgeolab/paper-template)
+Quick links: [Website](https://www.compgeolab.org) | [Lab manual](https://www.compgeolab.org/manual/index.html) | 
+[Logo and branding](https://github.com/compgeolab/logo)
+
+Templates: [Paper template](https://github.com/compgeolab/paper-template) | [FAPESP grant template](https://github.com/compgeolab/grant-fapesp-template)
