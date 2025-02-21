@@ -9,4 +9,4 @@ Our team works on several open tools and projects, both developed in-house and a
 Quick links: [Website](https://www.compgeolab.org) | [Lab manual](https://www.compgeolab.org/manual/index.html) | 
 [Logo and branding](https://github.com/compgeolab/logo) | [Website source code](https://github.com/compgeolab/website)
 
-Templates: [Paper template](https://github.com/compgeolab/paper-template) | [FAPESP grant template](https://github.com/compgeolab/grant-fapesp-template)
+Templates: [Paper template](https://github.com/compgeolab/paper-template) | [Grant template](https://github.com/compgeolab/grant-fapesp-template)
