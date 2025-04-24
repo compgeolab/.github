@@ -8,13 +8,15 @@ Our team works on several open tools and projects, both developed in-house and a
 
 **Quick links:**
 [Website](https://www.compgeolab.org) | 
-[Lab manual](https://www.compgeolab.org/manual/index.html) | 
+[Lab manual](https://www.compgeolab.org/manual/index.html)
+
+**For lab members:**
 [Logo and branding](https://github.com/compgeolab/logo) | 
 [Website source code](https://github.com/compgeolab/website)
 
 **Templates:**
 [Paper template](https://github.com/compgeolab/paper-template) | 
-[Grant template](https://github.com/compgeolab/grant-fapesp-template)
+[Grant template](https://github.com/compgeolab/grant-template)
 
 **Data:**
 [Australian gravity data](https://github.com/compgeolab/australia-gravity-data) | 
